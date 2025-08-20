@@ -1,4 +1,4 @@
-<h1>JTickecting Systems - osTicket</h1>
+<h1>Tickecting Systems - osTicket</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
