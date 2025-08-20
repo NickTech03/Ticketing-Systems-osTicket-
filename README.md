@@ -1,1 +1,1 @@
-# Ticketing-Systems-osTicket-
+# Ticketing-Systems-osTicket
